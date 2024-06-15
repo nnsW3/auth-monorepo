@@ -56,7 +56,7 @@
 ### Patch Changes
 
 - 5931f5a: fix: check window.location for RN compatibility
-- 181e0e8: add verifications to profile
+- 181e0e8: add verifications to the profile
 - 8913f4e: add optional disableSignOut prop
 - 0c216c4: feat: optional provider config prop
 
