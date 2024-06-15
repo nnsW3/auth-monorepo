@@ -101,7 +101,7 @@ Example: `"https://example.com/login"`
 
 ##### domain
 
-Domain of your application. Value should match the domain requesting the SIWE signature.
+Domain of your application. The value should match the domain requesting the SIWE signature.
 
 Type: `string`
 
@@ -307,7 +307,7 @@ Example: `"ESsxs6MaFio7OvqWb"`
 
 ##### domain
 
-Domain of your application. Value must match the domain in the SIWE message.
+Domain of your application. The value must match the domain in the SIWE message.
 
 Type: `string`
 
